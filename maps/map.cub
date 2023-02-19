@@ -1,0 +1,16 @@
+NO ./textures/brick.xpm
+SO ./textures/blue.xpm
+WE ./textures/wood.xpm
+EA ./textures/grey.xpm
+
+F 173,7,7
+C 205,249,255
+
+
+1111111111
+1100000011
+1000000001
+10N0000001
+1100000011
+1111111111
+
